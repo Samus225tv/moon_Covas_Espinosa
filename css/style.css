@@ -26,3 +26,29 @@ body {
 .active {
     background-color: #00b4d8;
 }
+
+.homeback {
+    background-image: url(../img/moon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 90vh;
+}
+
+.homediv {
+    background-color: #00b4d8;
+    border-radius: 10px;
+    border: 5px solid #03045e;
+    opacity: .9;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.homebutton {
+    background-color: #03045e;
+    border-radius: 10px;
+    border: 5px solid;
+    padding: 5px;
+}
