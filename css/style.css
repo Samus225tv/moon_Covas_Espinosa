@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;;
+    font-size: 15px;
+    height: 100vh;
+}
+
+.background {
+    background-color: #03045e;
+}
+
+.white {
+    color: #fff;
+    text-decoration:none;
+}
+
+.navp {
+    padding: 15px;
+}
+
+.navp :hover {
+    background-color: #00b4d8;
+}
+
+.active {
+    background-color: #00b4d8;
+}
